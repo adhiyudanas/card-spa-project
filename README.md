@@ -1,24 +1,8 @@
 # card-spa-project
 
-## Project setup
-```
-npm install
-```
+## Project Description
+Card spa application project is a past project of my team, joint collaboration with another IT company in Japan.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+It attempt to create a drag and drop card interface, on which the users able to:
+1. Upload csv file
+2. Use some machine learning algorithm to calculate the data
